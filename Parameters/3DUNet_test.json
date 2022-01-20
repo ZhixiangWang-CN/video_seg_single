@@ -1,0 +1,9 @@
+{
+  "dataset":"Urta",
+  "json_path": "C:/Softwares/Codes/video_seg/Tools/patient_seprate_0106.json",
+  "structure": "3DUNet",
+  "Resize":512,
+  "batch_size": 1,
+  "model_load_path":0,
+  "device_type":"cpu"
+}

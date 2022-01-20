@@ -1,0 +1,13 @@
+{
+  "dataset":"UA",
+  "json_path": "C:/Softwares/Codes/video_seg/Tools/dataset_UA.json",
+  "structure": "3DUNet_UA",
+  "max_epochs": 200,
+  "continue_training":true,
+  "Resize":512,
+  "batch_size": 10,
+  "learning_rate": 1e-5,
+  "val_interval":1,
+  "model_load_path": 0,
+  "device_type":"cuda:0"
+}

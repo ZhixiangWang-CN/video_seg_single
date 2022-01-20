@@ -1,0 +1,13 @@
+{
+  "dataset":"Urta",
+  "json_path": "./Tools/patient_seprate_0106.json",
+  "structure": "3DUNet_UR",
+  "max_epochs": 200,
+  "continue_training":false,
+  "Resize":512,
+  "batch_size": 5,
+  "learning_rate": 1e-3,
+  "val_interval":1,
+  "model_load_path": 0,
+  "device_type":"cuda:0"
+}

@@ -1,0 +1,2064 @@
+{
+    "nums:": 427,
+    "numTraining": 341,
+    "numval": 86,
+    "numTest": 86,
+    "training": [
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2270aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2270amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1997aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1997amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1431aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1431amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000226img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000226mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004978img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004978mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/299aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/299amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/499aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/499amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004345_2img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004345_2mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1413aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1413amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1401aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1401amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2264aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2264amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/466aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/466amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1957aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1957amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2266aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2266amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1996aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1996amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2087aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2087amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1385aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1385amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004347_2img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004347_2mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2258aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2258amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/311aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/311amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004985img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004985mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1420aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1420amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1926aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1926amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2054aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2054amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1417aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1417amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1963aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1963amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2236aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2236amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/297aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/297amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/252aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/252amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/247aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/247amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2193aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2193amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000266img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000266mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000422img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000422mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/308aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/308amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1989aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1989amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/300aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/300amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/246aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/246amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1950aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1950amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1924aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1924amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2071aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2071amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000842img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000842mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2206aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2206amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2150aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2150amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2136aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2136amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/001200img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/001200mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/301aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/301amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/497aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/497amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1956aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1956amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2202aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2202amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2231aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2231amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2139aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2139amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/510aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/510amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1990aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1990amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2000aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2000amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1412aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1412amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1421aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1421amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2199aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2199amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2131aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2131amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2068aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2068amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2060aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2060amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/490aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/490amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/250aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/250amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/9a_2img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/9a_2mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2278aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2278amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1971aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1971amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2145aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2145amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/498aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/498amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1992aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1992amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2276aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2276amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2203aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2203amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1389aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1389amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2239aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2239amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2078aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2078amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2226aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2226amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2147aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2147amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2173aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2173amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/245aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/245amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1951aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1951amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/459aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/459amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/309aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/309amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/501aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/501amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/505aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/505amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1918aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1918amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1948aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1948amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2221aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2221amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1432aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1432amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1922aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1922amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2170aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2170amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000427img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000427mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2133aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2133amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2065aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2065amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/457aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/457amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1979aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1979amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2224aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2224amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/296aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/296amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2208aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2208amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/456aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/456amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2053aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2053amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004344_2img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004344_2mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/006448img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/006448mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1973aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1973amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004346_2img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004346_2mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2222aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2222amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2263aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2263amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/10aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/10amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1928aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1928amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2197aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2197amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1947aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1947amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1391aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1391amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2113aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2113amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004350img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004350mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1945aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1945amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2169aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2169amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000218img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000218mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2165aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2165amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1965aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1965amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2156aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2156amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004348img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004348mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2240aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2240amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2191aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2191amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/530aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/530amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000213_2img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000213_2mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/506aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/506amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2157aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2157amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/307aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/307amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000219img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000219mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1393aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1393amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/489aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/489amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2082aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2082amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/460aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/460amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2063aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2063amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1962aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1962amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2235aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2235amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000236img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000236mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2182aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2182amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/293aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/293amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/001059img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/001059mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/492aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/492amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2151aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2151amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000218_2img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000218_2mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1964aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1964amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2163aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2163amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1998aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1998amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000232img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000232mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000223img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000223mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1966aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1966amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/001061img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/001061mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2109a_2img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2109a_2mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/507aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/507amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000426img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000426mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2104a_2img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2104a_2mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2058aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2058amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004976img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004976mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/001060img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/001060mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2137aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2137amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1921aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1921amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2233aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2233amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000213img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000213mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1408aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1408amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2059aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2059amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/9aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/9amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/304aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/304amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2106a_1img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2106a_1mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2207aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2207amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/488aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/488amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/312aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/312amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/251aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/251amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1959aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1959amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/509aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/509amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2181aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2181amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/305aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/305amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2265aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2265amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2185aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2185amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1411aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1411amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/500aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/500amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1390aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1390amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2204aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2204amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004975img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004975mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000841img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000841mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/4aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/4amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2061aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2061amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2241aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2241amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2249aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2249amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000211img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000211mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2174aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2174amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004353img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004353mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2067aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2067amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2200aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2200amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2242aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2242amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000268img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000268mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2187aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2187amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2158aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2158amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2146aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2146amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/41aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/41amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2262aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2262amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004986img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004986mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2112aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2112amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1905aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1905amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1923aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1923amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2135aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2135amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2074aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2074amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/23aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/23amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2079aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2079amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2122aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2122amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/001202img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/001202mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004349img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004349mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/17aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/17amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1967aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1967amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/7aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/7amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2142aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2142amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1974aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1974amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2043aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2043amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2179aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2179amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000220img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000220mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2037aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2037amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2138aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2138amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2134aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2134amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/001203img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/001203mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2066aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2066amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1392aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1392amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000515img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000515mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2168aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2168amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004343_2img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004343_2mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2064aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2064amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/455aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/455amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000244img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000244mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2072aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2072amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2045aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2045amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/303aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/303amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1904aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1904amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2048aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2048amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/496aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/496amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000429img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000429mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2161aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2161amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1975aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1975amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/5aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/5amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2184aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2184amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1405aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1405amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1976aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1976amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000235img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000235mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2077aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2077amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1387aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1387amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1954aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1954amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2177aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2177amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2260aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2260amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1949aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1949amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1977aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1977amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004953img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004953mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2132aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2132amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2111a_2img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2111a_2mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1983aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1983amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2149aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2149amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2232aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2232amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2171aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2171amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2160aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2160amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2148aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2148amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2124aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2124amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1972aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1972amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2257aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2257amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/20aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/20amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1955aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1955amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1437aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1437amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2111aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2111amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2032aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2032amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1902aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1902amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2196aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2196amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2038aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2038amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2227aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2227amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1969aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1969amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1436aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1436amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2172aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2172amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2245aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2245amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1931aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1931amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2205aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2205amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2188aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2188amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1927aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1927amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1425aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1425amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1941aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1941amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2155aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2155amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2183aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2183amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2052aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2052amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2062aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2062amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2051aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2051amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1435aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1435amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1386aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1386amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004979img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004979mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2069aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2069amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1415aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1415amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2167aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2167amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004981img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004981mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004347img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004347mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000210_1img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000210_1mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2256aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2256amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/290aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/290amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1970aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1970amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1958aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1958amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1968aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1968amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2190aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2190amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2198aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2198amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1980aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1980amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2088aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2088amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/6aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/6amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1925aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1925amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/244aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/244amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/467aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/467amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2075aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2075amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2143aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2143amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1987aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1987amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2050aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2050amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1993aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1993amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1416aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1416amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1930aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1930amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1961aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1961amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2001aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2001amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2056aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2056amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1986aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1986amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2218aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2218amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1410aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1410amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2070aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2070amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000212img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000212mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1944aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1944amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1423aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1423amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000428img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000428mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1433aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1433amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/487aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/487amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1406aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1406amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2192aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2192amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1430aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1430amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2228aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2228amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/292aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/292amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2261aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2261amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/3aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/3amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/001199img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/001199mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2238aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2238amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2220aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2220amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1938aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1938amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1403aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1403amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2219aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2219amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2159aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2159amask.npy"
+        }
+    ],
+    "test": [
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/491aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/491amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2035aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2035amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2152aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2152amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1953aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1953amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/249aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/249amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2259aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2259amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1409aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1409amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2195aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2195amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/295aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/295amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2114aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2114amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/313aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/313amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/8aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/8amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1424aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1424amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2223aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2223amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/310aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/310amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/463aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/463amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1940aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1940amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2225aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2225amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004977img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004977mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1999aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1999amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2194aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2194amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2104aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2104amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2186aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2186amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004351img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004351mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2154aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2154amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2279aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2279amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2280aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2280amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/458aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/458amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/502aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/502amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2269aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2269amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2049aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2049amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/19aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/19amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2229aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2229amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1404aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1404amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2244aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2244amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1994aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1994amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2230aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2230amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1419aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1419amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2034aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2034amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/302aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/302amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1943aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1943amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2144aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2144amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2180aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2180amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2057aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2057amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/298aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/298amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/248aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/248amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1414aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1414amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000597img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000597mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2140aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2140amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1946aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1946amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000423img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000423mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004352img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004352mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000267img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000267mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/001201img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/001201mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2073aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2073amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2176aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2176amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2039aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2039amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1903aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1903amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004980img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004980mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1407aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1407amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/280aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/280amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/494aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/494amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1978aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1978amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2247aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2247amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2175aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2175amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2166aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2166amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000598img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000598mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2234aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2234amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2283aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2283amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1438aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1438amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/306aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/306amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/291aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/291amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/493aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/493amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2044aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2044amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1960aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1960amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000840img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000840mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2237aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2237amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2271aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2271amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/503aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/503amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1929aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1929amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2267aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2267amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/276aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/276amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000210img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000210mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2141aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2141amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/24aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/24amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1422aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1422amask.npy"
+        }
+    ],
+    "validation": [
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/491aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/491amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2035aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2035amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2152aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2152amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1953aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1953amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/249aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/249amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2259aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2259amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1409aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1409amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2195aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2195amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/295aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/295amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2114aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2114amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/313aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/313amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/8aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/8amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1424aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1424amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2223aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2223amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/310aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/310amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/463aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/463amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1940aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1940amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2225aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2225amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004977img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004977mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1999aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1999amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2194aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2194amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2104aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2104amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2186aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2186amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004351img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004351mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2154aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2154amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2279aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2279amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2280aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2280amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/458aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/458amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/502aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/502amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2269aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2269amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2049aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2049amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/19aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/19amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2229aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2229amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1404aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1404amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2244aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2244amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1994aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1994amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2230aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2230amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1419aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1419amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2034aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2034amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/302aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/302amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1943aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1943amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2144aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2144amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2180aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2180amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2057aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2057amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/298aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/298amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/248aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/248amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1414aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1414amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000597img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000597mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2140aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2140amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1946aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1946amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000423img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000423mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004352img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004352mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000267img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000267mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/001201img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/001201mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2073aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2073amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2176aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2176amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2039aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2039amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1903aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1903amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/004980img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/004980mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1407aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1407amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/280aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/280amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/494aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/494amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1978aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1978amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2247aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2247amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2175aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2175amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2166aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2166amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000598img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000598mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2234aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2234amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2283aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2283amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1438aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1438amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/306aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/306amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/291aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/291amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/493aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/493amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2044aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2044amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1960aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1960amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000840img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000840mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2237aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2237amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2271aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2271amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/503aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/503amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1929aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1929amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2267aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2267amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/276aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/276amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/000210img.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/000210mask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/2141aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/2141amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/24aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/24amask.npy"
+        },
+        {
+            "image": "C:/Dataset/video/Segdataset/UR/image/1422aimg.png",
+            "label": "C:/Dataset/video/Segdataset/UR/mask/1422amask.npy"
+        }
+    ]
+}

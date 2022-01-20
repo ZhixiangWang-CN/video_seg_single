@@ -1,0 +1,12 @@
+{
+  "dataset":"Urta",
+  "json_path": "C:/Softwares/Codes/video_seg/Tools/patient_seprate_0106.json",
+  "structure": "3DUNet",
+  "max_epochs": 100,
+  "continue_training":true,
+  "Resize":512,
+  "batch_size": 10,
+  "learning_rate": 5e-5,
+  "val_interval":1,
+  "device_type":"cuda:0"
+}
