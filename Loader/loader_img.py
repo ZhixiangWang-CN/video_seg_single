@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import scipy
 from PIL import Image
 
-def read_data_ds(data_path='../Tools/dataset.json',new_size=512,cache_num=2):
+def read_data_ds(data_path='../Tools/dataset.json',section='validation',new_size=512,cache_num=2):
 
     train_transform = Compose(
         [
@@ -46,7 +46,7 @@ def read_data_ds(data_path='../Tools/dataset.json',new_size=512,cache_num=2):
     val_ds = BraTSDataset(
         json_path=data_path,
         transform=val_transform,
-        section="validation",
+        section=section,
         num_workers=0,
         cache_num=cache_num
 

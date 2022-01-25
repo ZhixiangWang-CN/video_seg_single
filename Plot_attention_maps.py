@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 import torch
 from model.load_model import load_model
 from torch.autograd import Variable
-from Loader.loader_img_test import read_data_ds
+from Loader.loader_img import read_data_ds
 from monai.transforms import Compose,Activations,AsDiscrete
 from Loss.load_loss import My_loss
 import argparse
@@ -36,16 +36,21 @@ def train(parameters):
     if model_load_path == 0:
         model_load_path='training_results/' + structure+'/'
 
-    test_ds = read_data_ds(data_path=json_file,new_size=newsize)
+    # test_ds = read_data_ds(data_path=json_file,new_size=newsize)
+    #
+    # set_determinism(seed=0)
+    #
+    # val_loader = DataLoader(test_ds, batch_size=batch_size, shuffle=False, num_workers=0)
+    train_ds,val_ds = read_data_ds(data_path=json_file,new_size=newsize)
 
     set_determinism(seed=0)
 
-    val_loader = DataLoader(test_ds, batch_size=batch_size, shuffle=False, num_workers=0)
-
+    val_loader = DataLoader(val_ds[:3], batch_size=1, shuffle=True, num_workers=0)
+    train_loader = DataLoader(train_ds[:3], batch_size=1, shuffle=True, num_workers=0)
 
     device = torch.device(device_type)
 
-    model_ = load_model()
+    model_ = load_model(name='UR')
     model_.to(device)
 
     time_save = time.strftime("%Y_%m_%d_%H_%M", time.localtime())
@@ -76,7 +81,7 @@ def train(parameters):
     # layers_list=['model.0','model.1','model.2']
 
 
-    output_dir = 'gcam/'
+    output_dir = './Feature_map/gcam/'
     for layer in layers_list:
         # model = gcam.inject(model_, output_dir='GBP/'+layer+'/', backend='gbp', layer=layer, label='best', save_maps=True)
         model = gcam.inject(model_, output_dir=output_dir + layer + '/', backend='gcam', layer=layer, label='best',
@@ -88,7 +93,7 @@ def train(parameters):
 
         with torch.no_grad():
             i=0
-            val_bar = tqdm(val_loader)
+            val_bar = tqdm(train_loader)
             for val_data in val_bar:
 
                 val_inputs, val_labels = (
@@ -106,7 +111,7 @@ def train(parameters):
                 i+=1
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process some integers.')
-    parser.add_argument("--parameters",type=str,default='3DUNet_test.json', help="parameters json")
+    parser.add_argument("--parameters",type=str,default='3DUNet_UR.json', help="parameters json")
     args = parser.parse_args()
 
 

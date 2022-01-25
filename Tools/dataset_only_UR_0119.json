@@ -11253,12 +11253,6 @@
             "label_name": "C:/Dataset/video/Segdataset/UR6/mask/41amask.npy"
         },
         {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/143aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/143amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/143aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/143amask.npy"
-        },
-        {
             "image": "C:/Dataset/video/Segdataset/UR6/image/72aimg.png",
             "label": "C:/Dataset/video/Segdataset/UR6/mask/72amask.npy",
             "img_name": "C:/Dataset/video/Segdataset/UR6/image/72aimg.png",
@@ -11283,34 +11277,16 @@
             "label_name": "C:/Dataset/video/Segdataset/UR6/mask/42amask.npy"
         },
         {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/157aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/157amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/157aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/157amask.npy"
-        },
-        {
             "image": "C:/Dataset/video/Segdataset/UR6/image/70aimg.png",
             "label": "C:/Dataset/video/Segdataset/UR6/mask/70amask.npy",
             "img_name": "C:/Dataset/video/Segdataset/UR6/image/70aimg.png",
             "label_name": "C:/Dataset/video/Segdataset/UR6/mask/70amask.npy"
         },
         {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/142aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/142amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/142aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/142amask.npy"
-        },
-        {
             "image": "C:/Dataset/video/Segdataset/UR6/image/52aimg.png",
             "label": "C:/Dataset/video/Segdataset/UR6/mask/52amask.npy",
             "img_name": "C:/Dataset/video/Segdataset/UR6/image/52aimg.png",
             "label_name": "C:/Dataset/video/Segdataset/UR6/mask/52amask.npy"
-        },
-        {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/144aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/144amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/144aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/144amask.npy"
         },
         {
             "image": "C:/Dataset/video/Segdataset/UR6/image/38aimg.png",
@@ -11325,28 +11301,10 @@
             "label_name": "C:/Dataset/video/Segdataset/UR6/mask/34amask.npy"
         },
         {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/141aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/141amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/141aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/141amask.npy"
-        },
-        {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/147aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/147amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/147aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/147amask.npy"
-        },
-        {
             "image": "C:/Dataset/video/Segdataset/UR6/image/53aimg.png",
             "label": "C:/Dataset/video/Segdataset/UR6/mask/53amask.npy",
             "img_name": "C:/Dataset/video/Segdataset/UR6/image/53aimg.png",
             "label_name": "C:/Dataset/video/Segdataset/UR6/mask/53amask.npy"
-        },
-        {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/146aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/146amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/146aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/146amask.npy"
         },
         {
             "image": "C:/Dataset/video/Segdataset/UR6/image/49aimg.png",
@@ -12993,12 +12951,6 @@
             "label_name": "C:/Dataset/video/Segdataset/UR6/mask/41amask.npy"
         },
         {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/143aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/143amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/143aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/143amask.npy"
-        },
-        {
             "image": "C:/Dataset/video/Segdataset/UR6/image/72aimg.png",
             "label": "C:/Dataset/video/Segdataset/UR6/mask/72amask.npy",
             "img_name": "C:/Dataset/video/Segdataset/UR6/image/72aimg.png",
@@ -13023,34 +12975,16 @@
             "label_name": "C:/Dataset/video/Segdataset/UR6/mask/42amask.npy"
         },
         {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/157aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/157amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/157aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/157amask.npy"
-        },
-        {
             "image": "C:/Dataset/video/Segdataset/UR6/image/70aimg.png",
             "label": "C:/Dataset/video/Segdataset/UR6/mask/70amask.npy",
             "img_name": "C:/Dataset/video/Segdataset/UR6/image/70aimg.png",
             "label_name": "C:/Dataset/video/Segdataset/UR6/mask/70amask.npy"
         },
         {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/142aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/142amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/142aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/142amask.npy"
-        },
-        {
             "image": "C:/Dataset/video/Segdataset/UR6/image/52aimg.png",
             "label": "C:/Dataset/video/Segdataset/UR6/mask/52amask.npy",
             "img_name": "C:/Dataset/video/Segdataset/UR6/image/52aimg.png",
             "label_name": "C:/Dataset/video/Segdataset/UR6/mask/52amask.npy"
-        },
-        {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/144aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/144amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/144aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/144amask.npy"
         },
         {
             "image": "C:/Dataset/video/Segdataset/UR6/image/38aimg.png",
@@ -13065,28 +12999,10 @@
             "label_name": "C:/Dataset/video/Segdataset/UR6/mask/34amask.npy"
         },
         {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/141aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/141amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/141aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/141amask.npy"
-        },
-        {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/147aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/147amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/147aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/147amask.npy"
-        },
-        {
             "image": "C:/Dataset/video/Segdataset/UR6/image/53aimg.png",
             "label": "C:/Dataset/video/Segdataset/UR6/mask/53amask.npy",
             "img_name": "C:/Dataset/video/Segdataset/UR6/image/53aimg.png",
             "label_name": "C:/Dataset/video/Segdataset/UR6/mask/53amask.npy"
-        },
-        {
-            "image": "C:/Dataset/video/Segdataset/UR6/image/146aimg.png",
-            "label": "C:/Dataset/video/Segdataset/UR6/mask/146amask.npy",
-            "img_name": "C:/Dataset/video/Segdataset/UR6/image/146aimg.png",
-            "label_name": "C:/Dataset/video/Segdataset/UR6/mask/146amask.npy"
         },
         {
             "image": "C:/Dataset/video/Segdataset/UR6/image/49aimg.png",

@@ -23,14 +23,17 @@ class My_loss(nn.Module):
         # fc=self.loss_function_focal(x,y)
         # DCE = self.Dce(x,y)
         #=====================
-        y = y.long()
-        CE = self.loss_cross_entory(x,y)
-        x = torch.softmax(x,dim=1)
-        x = torch.argmax(x,dim=1)
+
+        # CE = self.loss_cross_entory(x,y)
+        x = x[:,0,:,:]
+        BCE = self.loss_BCE(x, y)
+        # x = torch.softmax(x,dim=1)
+        # x = torch.argmax(x,dim=1)
+        # x= x[:,0,:,:]
         Dice = self.loss_Dice(x, y)
         # #===============================
         # HD = self.HD_loss(x,y)
         # norm_HD = (1-torch.exp(-1*HD))/(1+torch.exp(-1*HD))
         #===============================
-        return CE+Dice
+        return BCE+Dice
 

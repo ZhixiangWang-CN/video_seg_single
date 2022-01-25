@@ -74,21 +74,20 @@ class SemanticSegmentationTarget:
 
     def __call__(self, model_output):
         result = (model_output[self.category, :, :] * self.mask)
-        plt.
-        plt.imshow(result)
-        plt.show()
+
         result=result.sum()
         return result
 
 
-target_layers = [model.model.backbone.layer4]
+target_layers = [model.model.backbone.layer1]
+
 targets = [SemanticSegmentationTarget(car_category, car_mask_float)]
 with GradCAM(model=model,
              target_layers =target_layers,
              use_cuda=torch.cuda.is_available()) as cam:
     grayscale_cam = cam(input_tensor=input_tensor,
                         targets=targets)
-    cam_image = show_cam_on_image(rgb_img, grayscale_cam, use_rgb=True)
+    cam_image = show_cam_on_image(rgb_img, grayscale_cam[0], use_rgb=True)
 
 img=Image.fromarray(cam_image)
 img.show()

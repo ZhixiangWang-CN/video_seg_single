@@ -41,8 +41,8 @@ def train(parameters):
 
     set_determinism(seed=0)
 
-    val_loader = DataLoader(train_ds[:10], batch_size=batch_size, shuffle=True, num_workers=0)
-    train_loader = DataLoader(train_ds[:30], batch_size=batch_size, shuffle=True, num_workers=0)
+    val_loader = DataLoader(val_ds, batch_size=batch_size, shuffle=True, num_workers=0)
+    train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True, num_workers=0)
 
     device = torch.device(device_type)
 
@@ -95,8 +95,9 @@ def train(parameters):
             labels[labels==2]=0
             optimizer.zero_grad()
             outputs= model(inputs)
+            # labels = torch.unsqueeze(labels,dim=1)
             # labels = labels.long()
-            # outputs = torch.sigmoid(outputs)
+            outputs = torch.sigmoid(outputs)
             # outputs = torch.softmax(outputs,dim=1)
             # check_outputs(inputs,labels,outputs)
             # outputs=torch.squeeze(outputs,1)
@@ -130,15 +131,20 @@ def train(parameters):
                     )
                     val_labels[val_labels==2]=0
                     val_outputs = model(val_inputs)
-                    val_outputs = torch.softmax(val_outputs, dim=1)
-                    # val_outputs = torch.where(val_outputs > 0.5, 1, 0)
+                    # val_outputs = torch.softmax(val_outputs, dim=1)
+                    # val_outputs = torch.argmax(val_outputs, dim=1)
+                    val_outputs=torch.sigmoid(val_outputs)
+                    val_outputs = torch.where(val_outputs > 0.5, 1, 0)
+                    val_outputs=val_outputs[:,0,:,:]
                     # val_outputs=val_outputs.cpu().detach().numpy()
                     # val_labels=val_labels.cpu().detach().numpy()
                     # mask = onehot2mask(val_outputs[0])
 
                     # check_outputs(val_inputs,val_labels,val_outputs)#检测labels
                     # o_ = torch.softmax(val_outputs, dim=1)
-                    val_outputs = torch.argmax(val_outputs, dim=1)
+                    # val_outputs = torch.argmax(val_outputs, dim=1)
+                    # val_outputs = torch.squeeze(val_outputs,dim=1)
+
                     dice_score = dice_metric(val_outputs,val_labels)
                     val_outputs=val_outputs.cpu().detach().numpy()
                     val_labels=val_labels.cpu().detach().numpy()
